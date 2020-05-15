@@ -1,1 +1,1 @@
-# 3.-Curso-pr-ctico-de-HTML-Y-CSS
+# 3.-Curso-practico-de-HTML-Y-CSS
